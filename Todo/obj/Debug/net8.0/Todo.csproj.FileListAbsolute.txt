@@ -1,0 +1,14 @@
+D:\Intern\Todo\Todo\bin\Debug\net8.0\Todo.exe
+D:\Intern\Todo\Todo\bin\Debug\net8.0\Todo.deps.json
+D:\Intern\Todo\Todo\bin\Debug\net8.0\Todo.runtimeconfig.json
+D:\Intern\Todo\Todo\bin\Debug\net8.0\Todo.dll
+D:\Intern\Todo\Todo\bin\Debug\net8.0\Todo.pdb
+D:\Intern\Todo\Todo\obj\Debug\net8.0\Todo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Intern\Todo\Todo\obj\Debug\net8.0\Todo.AssemblyInfoInputs.cache
+D:\Intern\Todo\Todo\obj\Debug\net8.0\Todo.AssemblyInfo.cs
+D:\Intern\Todo\Todo\obj\Debug\net8.0\Todo.csproj.CoreCompileInputs.cache
+D:\Intern\Todo\Todo\obj\Debug\net8.0\Todo.dll
+D:\Intern\Todo\Todo\obj\Debug\net8.0\refint\Todo.dll
+D:\Intern\Todo\Todo\obj\Debug\net8.0\Todo.pdb
+D:\Intern\Todo\Todo\obj\Debug\net8.0\Todo.genruntimeconfig.cache
+D:\Intern\Todo\Todo\obj\Debug\net8.0\ref\Todo.dll
